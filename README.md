@@ -6,4 +6,4 @@ I'm Brijesh Yadav 👦🏻.
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/brijesh-yadav-001st/) 
 - 🌐 Portfolio Link : [Portfolio](https://brijeshyadav.netlify.app/)
 - ⚡ Fun fact:  I spend many ⏳ hours every day listening to songs 🎼 🎧, book reading 📖 & coding 👨‍💻.
-🔜
+- 🔜
