@@ -5,5 +5,5 @@ I'm Brijesh Yadav.
 - 🌱 I’m currently learning  ✨ MERN Stack &  🤖  ML Development.
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/brijesh-yadav-001st/) 
 - 🌐 Portfolio Link : [Portfolio](https://brijeshyadav.netlify.app/)
-- ⚡ Fun fact:  I spend many ⏳ hours every day listening to songs 🎼 🎧, book reading 📖 & coding 👨‍💻.
+- ⚡ Fun fact:  I spend many ⏳ hours in every day listening to songs 🎼 🎧, book reading 📖 & coding 👨‍💻.
 - 🔜
