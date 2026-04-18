@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Brijesh%20Yadav&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Power%20Platform%20%7C%20AI%20%26%20Data&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Brijesh Yadav
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+intelligent+low-code+solutions;Power+Platform+%7C+Copilot+Studio+%7C+AI+Agents;Turning+data+into+decisions;Automating+the+mundane%2C+empowering+humans)](https://readme-typing-svg.demolab.com)
+### 🚀 Software Engineer &nbsp;|&nbsp; ⚡ Power Platform Developer &nbsp;|&nbsp; 🤖 AI & Data Specialist
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+intelligent+low-code+solutions;Power+Platform+%7C+Copilot+Studio+%7C+AI+Agents;Turning+data+into+decisions;Automating+the+mundane%2C+empowering+humans)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
@@ -17,18 +19,61 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-Name       : Brijesh Yadav
-Location   : Noida, India
-Role       : Software Engineer @ Tech Star Group
-Previous Role  : Senior Data Analyst @ HCL Technologies (3+ yrs)
-Education  : B.Tech - Information Technology | NIT Kolkata | DGPA 8.4
-Focus      : Power Platform · AI Agents · GenAI · Data Intelligence
-Certification: Microsoft PL-300 — Power BI Data Analyst Associate
-Currently  : Building AI-driven, low-code enterprise solutions
-Exploring  : Copilot extensibility · AI Agents · Advanced GenAI workflows
-Lifestyle  : Music 🎧 + Books 📖 + Code 👨‍💻 + Outdoor Games 🏏
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Work
+
+🚀 &nbsp;**Software Engineer**
+<br/>[![Tech Star Group](https://img.shields.io/badge/Tech%20Star%20Group-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)](https://www.techstargroup.com/)
+
+🏛️ &nbsp;**Senior Data Analyst** *(3+ yrs)*
+<br/>[![HCL Technologies](https://img.shields.io/badge/HCL%20Technologies-00AEEF?style=flat-square&logo=hcl&logoColor=white)](https://www.hcltech.com/)
+
+### 🎓 Education
+
+🎓 &nbsp;**B.Tech — Information Technology**
+<br/>🏫 &nbsp;NIT Kolkata &nbsp;·&nbsp; DGPA **8.4**
+
+### 🏅 Certification
+
+[![PL-300](https://img.shields.io/badge/Microsoft%20PL--300-Power%20BI%20Data%20Analyst-F2C811?style=flat-square&logo=microsoftazure&logoColor=black)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Focus Areas
+
+```text
+⚡ Power Platform & Low-Code Solutions
+🤖 AI Agents & Copilot Studio
+🧠 GenAI & LLM Integration
+📊 Data Intelligence & BI
+☁️ Azure & Cloud Workflows
+🔁 Process Automation
 ```
+
+### 🔭 Currently Exploring
+
+```text
+→ Copilot Extensibility & Custom Agents
+→ Advanced GenAI Enterprise Workflows
+→ Azure AI Foundry & AI Builder
+→ Power BI Fabric & Real-Time Analytics
+```
+
+### ⚡ Beyond the Keyboard
+
+🎧 Music &nbsp;&nbsp;📖 Books &nbsp;&nbsp;👨‍💻 Code &nbsp;&nbsp;🏏 Outdoor Games
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -129,6 +174,7 @@ Lifestyle  : Music 🎧 + Books 📖 + Code 👨‍💻 + Outdoor Games 🏏
 
 *"Automating the mundane so humans can focus on the meaningful."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+---
+⭐ **Feel free to explore my repositories and connect!**
 
 </div>
