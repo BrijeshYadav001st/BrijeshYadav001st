@@ -63,7 +63,7 @@
 → Advanced GenAI Enterprise Workflows
 → Azure AI Foundry & AI Builder
 → Power BI Fabric & Real-Time Analytics
-→ Exploring Linear Algebra (vectors/matrices), Calculus , Probability, and Statistics.
+→ Exploring Linear Algebra, Calculus , Probability, and Statistics.
 → Machine Learning, NLP & Automation 
 ```
 
