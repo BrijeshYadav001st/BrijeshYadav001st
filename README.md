@@ -15,7 +15,6 @@
 
 </div>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -48,12 +47,13 @@
 ### 🎯 Focus Areas
 
 ```text
-⚡ Power Platform & Low-Code Solutions
+⚡ Power Platform & Low-Code Solutions Architect
 🤖 AI Agents & Copilot Studio
 🧠 GenAI & LLM Integration
 📊 Data Intelligence & BI
 ☁️ Azure & Cloud Workflows
 🔁 Process Automation
+🔍 Research
 ```
 
 ### 🔭 Currently Exploring
@@ -63,6 +63,8 @@
 → Advanced GenAI Enterprise Workflows
 → Azure AI Foundry & AI Builder
 → Power BI Fabric & Real-Time Analytics
+→ Exploring Linear Algebra (vectors/matrices), Calculus (derivatives/optimization), Probability, and Statistics.
+→ Machine Learning, NLP & Automation 
 ```
 
 ### ⚡ Beyond the Keyboard
